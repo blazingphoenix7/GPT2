@@ -1,3 +1,5 @@
+# Acknowledgements
+The code present in this repository is heavily borrowed from the amazing work done by [Andrej Karpathy](https://github.com/karpathy). I recommend everyone to watch [his YouTube video](https://www.youtube.com/watch?v=l8pRSuU81PU&t=640s) where he explains the entire code and process in extreme detail.
 
 # nanoGPT
 
